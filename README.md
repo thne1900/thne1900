@@ -1,12 +1,13 @@
-#**Hello!**
+**Hello!**
 
-- 👋 Hey, my profile name is: _@thne1900_, but my name is _Therese_.
+👋 Hey, my profile name is: _thne1900_, but my name is _Therese_.
+
 - I´m 34 years old
-- Lives in Gothenburg
+- Live in Gothenburg, Bohus.
 - I’m learning about git/github as a student at Mittuniversitetet.
 
-  📫 *Contactinformation:*
-  *Email: thne1900@student.miun.se
+  📫 _Contactinformation:_
+  - **Email:** thne1900@student.miun.se
 
 
 <!---
